@@ -3,7 +3,7 @@ package test;
 
 public class Board {
 
-    private static  Board single;
+    private static  Board single;///
     private Tile[][] newBoard;
 
     private  Board(){
